@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Operador Consola
 
 Proyecto de Consola que utiliza Entity Framework para conectar a base de datos. 
 
